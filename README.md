@@ -13,7 +13,7 @@ Functional Requirements
     - Product Details: Detailed product pages with product images, descriptions,
         specifications, and other relevant information.
     - Search: Users must be able to search for products using keywords.
-3. Cart & Checkout
+3. [Cart & Checkout](https://github.com/shubham-muley/CartService)
     - Add to Cart: Users should be able to add products to their cart.  
     - Cart Review: View selected items in the cart with price, quantity, and total details.  
     - Checkout: Seamless process to finalize the purchase, including specifying delivery address and payment method.  
