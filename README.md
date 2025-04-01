@@ -17,7 +17,7 @@ Functional Requirements
     - Add to Cart: Users should be able to add products to their cart.  
     - Cart Review: View selected items in the cart with price, quantity, and total details.  
     - Checkout: Seamless process to finalize the purchase, including specifying delivery address and payment method.  
-4. Order Management
+4. [Order Management](https://github.com/shubham-muley/OrderService)
     - Order Confirmation: After making a purchase, users should receive a confirmation with order details.    
     - Order History: Users should be able to view their past orders.    
     - Order Tracking: Provide users with a way to track their order's delivery status.  
@@ -25,6 +25,6 @@ Functional Requirements
     - Multiple Payment Options: Support for credit/debit cards, online banking, and other popular payment methods.  
     - Secure Transactions: Ensure user trust by facilitating secure payment transactions.  
     - Payment Receipt: Provide users with a receipt after a successful payment.  
-6. Authentication
+6. [Authentication](https://github.com/shubham-muley/AuthService)
     - Secure Authentication: Ensure that user data remains private and secure during login and throughout their session.  
     - Session Management: Users should remain logged in for a specified duration or until they decide to log out.  
